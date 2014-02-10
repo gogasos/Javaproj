@@ -9,7 +9,7 @@ public class Main extends JFrame
 	 */
 	private static final long serialVersionUID = 1L;
 JPanel pane = new JPanel();
-  JButton pressme = new JButton("Press Me");
+  JButton pressme = new JButton("tryckpåmigförfan");
   Main()        // the frame constructor
   {
     super("JPrompt Demo"); setBounds(100,100,300,200);
