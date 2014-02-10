@@ -12,7 +12,7 @@ JPanel pane = new JPanel();
   JButton pressme = new JButton("tryckpåmigförfan");
   Main()        // the frame constructor
   {
-    super("JPrompt Demo"); setBounds(100,100,300,200);
+    super("Flappy Bird sucks big tits"); setBounds(100,100,300,200);
     setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     Container con = this.getContentPane(); // inherit main frame
     con.add(pane);    // JPanel containers default to FlowLayout
