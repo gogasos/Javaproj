@@ -1,7 +1,9 @@
 package main;
 
-import java.awt.*; 
-import javax.swing.*;
+import java.awt.Container;
+import javax.swing.JButton;
+import javax.swing.JFrame;
+import javax.swing.JPanel;
 
 class Frame extends JFrame {
 
