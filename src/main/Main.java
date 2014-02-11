@@ -6,8 +6,8 @@ import javax.swing.*;
 class Frame extends JFrame {
 
 	private static final long serialVersionUID = 1L;
-	static JPanel pane = new JPanel();
-	static JButton pressme = new JButton("tryckpåmigförfan");
+	JPanel pane = new JPanel();
+	JButton pressme = new JButton("tryckpåmigförfan");
 	
 	public Frame() {
 		super("Flappy Bird sucks big tits");
@@ -24,8 +24,6 @@ class Frame extends JFrame {
 }
 
 public class Main{
-	
-	
 	
 	public static void main(String args[]) {
 		new Frame();
